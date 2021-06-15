@@ -1,0 +1,6 @@
+/.settings
+/bin
+/src/com/topNotch/dataStructures/deque
+/src/com/topNotch/dataStructures/dynamicProgramming
+/src/com/topNotch/dataStructures/sorting
+.classpath
